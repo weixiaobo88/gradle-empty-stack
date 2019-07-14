@@ -21,6 +21,8 @@ dependencies {
 
     // Use JUnit test framework
     testCompile 'junit:junit:4.12'
+    testImplementation 'org.easytesting:fest-assert-core:2.0M10'
+
 }
 
 // In this section you declare where to find the dependencies of your project
